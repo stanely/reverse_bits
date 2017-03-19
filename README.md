@@ -1,2 +1,4 @@
 # reverse_bits
-Unit test program to reserver bit display
+
+### Purpose
+- Unit test program to reverse bit display of given byte
